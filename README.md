@@ -6,3 +6,7 @@ The use of Pandas is redundant. It would have been easier to ask Chat GPT to for
 Then i could have used list comprehesion to choose a random name and combining it with a random place/attribute. 
 
 I also wanted to simulate going to another page, that's why the "about" function and page is formated the way it is. 
+
+Backgroundpicture "about" - https://www.pixilart.com/art/springtime-adventure-6db447a0c4983ea
+
+Backgroundpicture "menu" - https://www.pixilart.com/art/heroes-rest-sr29fabef6a5206?ft=staff-picks&ft_id=
